@@ -1,4 +1,4 @@
-//Codefoces Problem NO :6
+//Codefoces Problem NO :282A
 //Problem Name :Bit++
 #include<iostream>
 using namespace std;
